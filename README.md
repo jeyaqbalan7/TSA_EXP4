@@ -1,6 +1,6 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-### NAME : Karthikeyan R
-### Register Number : 212222240045
+### NAME : Jeyabalan T
+### Register Number : 212222240040
 ## Date:
 
 ### AIM:
@@ -54,33 +54,33 @@ plot_pacf(arma22_sample, lags=20, ax=plt.gca(), title='PACF of Simulated ARMA(2,
 plt.tight_layout()
 plt.show()
 ```
-OUTPUT:
-SIMULATED ARMA(1,1) PROCESS:
+## OUTPUT:
+## SIMULATED ARMA(1,1) PROCESS:
 
-Partial Autocorrelation
+## Partial Autocorrelation
 
 ![Screenshot 2024-09-11 091144](https://github.com/user-attachments/assets/2b0d2f41-f6d4-4bfc-81ec-b732f07c351b)
 
 
 
-Autocorrelation
+## Autocorrelation
 
 ![Screenshot 2024-09-11 091054](https://github.com/user-attachments/assets/43b93ad0-4524-4b6f-a0a9-4bcfbfa4cf19)
 
 
 
-SIMULATED ARMA(2,2) PROCESS:
+## SIMULATED ARMA(2,2) PROCESS:
 
-Partial Autocorrelation
+## Partial Autocorrelation
 
 ![Screenshot 2024-09-11 091133](https://github.com/user-attachments/assets/c4520182-a10f-45ab-9279-d1069a2f4282)
 
 
 
-Autocorrelation
+## Autocorrelation
 
 ![Screenshot 2024-09-11 091111](https://github.com/user-attachments/assets/bfac6118-72dc-4ff9-b162-0c83d941d45c)
 
 
-RESULT:
+## RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
